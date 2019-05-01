@@ -1,6 +1,6 @@
-## John Reynolds' Venture LLC
+## John Reynolds' Venture
 
-*Producer of thoughtful tools for people who like to think...*
+*Order in a world of distractions and interruptions...*
 
 Check out [Trules](https://trules.app) for online deliberations
 
