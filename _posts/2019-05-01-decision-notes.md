@@ -4,10 +4,12 @@ author: john
 title: Notes for decisions
 ---
 
-> I'm a compulsive note-taker, and I used to feel self-conscious about pulling out my little notebook and taking notes during a casual conversation.
-> Then I noticed that people really seemed to enjoy it; the fact that I was taking notes made their remarks seem particularly insightful or valuable.
-> Now I don't hold myself back.
-> <a href='https://www.brainyquote.com/quotes/gretchen_rubin_619392' target='__blank'>Getchen Rubin</a>
+<blockquote> I'm a compulsive note-taker, and I used to feel self-conscious about pulling out my little notebook and taking notes during a casual conversation.
+<br/>
+Then I noticed that people really seemed to enjoy it; the fact that I was taking notes made their remarks seem particularly insightful or valuable.
+<br/>
+<a href='https://www.brainyquote.com/quotes/gretchen_rubin_619392' target='__blank'>Getchen Rubin</a>
+</blockquote>
 
 <!--more-->
 
