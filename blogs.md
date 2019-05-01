@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Deliberation Blog
+title: Deliberation Thoughts
 ---
 <h1>Latest Posts</h1>
 
