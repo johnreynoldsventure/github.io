@@ -2,6 +2,12 @@
 ---
 
 @import "{{ site.theme }}";
+
 header h1 {
   color: #6f76ab;
+}
+
+a {
+  color: #6f76ab;
+  font-weight: 600;
 }
