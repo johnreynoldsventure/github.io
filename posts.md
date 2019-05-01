@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Deliberation Thoughts
+title: Posts
 ---
 <h1>Latest Posts</h1>
 
