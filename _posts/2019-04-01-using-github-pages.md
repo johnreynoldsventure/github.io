@@ -1,11 +1,7 @@
 ---
 layout: post
 author: john
-title: Test
+title: Using GitHub Pages
 ---
 
-# Welcome
-
-**Hello world**, this is my first Jekyll blog post.
-
-I hope you like it!
+GitHub Pages is a very easy to use blogging platform that comes free with a GitHub account.
