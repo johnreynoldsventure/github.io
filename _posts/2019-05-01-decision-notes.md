@@ -11,7 +11,7 @@ title: Notes for decisions
 
 <!--more-->
 
-![Decision notes](assets/images/DecisionNotes.jpg)
+![Decision notes](/assets/images/DecisionNotes.jpg)
 
 I find that taking notes helps me reach better decisions.
 Notes help me organize my thoughts,
@@ -37,7 +37,7 @@ Here's an example:
 
 ## Why would we do this?
 
-###To reduce our housing expenses.
+### To reduce our housing expenses.
 
 &nbsp;&nbsp;How much would expenses be reduced?
 
@@ -57,18 +57,17 @@ Here's an example:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HOA fees
 
-###To be closer to family.
+### To be closer to family.
 
-###To reduce maintenance.
+### To reduce maintenance.
 
 &nbsp;&nbsp;How would maintenance be reduced?
 
 ## Why would we not do this?
 
-###We'd miss many of the things that we like to do in Santa Fe.
+### We'd miss many of the things that we like to do in Santa Fe.
 
 &nbsp;&nbsp;What things would we miss?
 
 &nbsp;&nbsp;What alternate things are there to do in El Paso?
 
-<div><b>This is an html div</b></div>
