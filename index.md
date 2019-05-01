@@ -1,4 +1,4 @@
-## John Reynolds's Venture LLC
+## John Reynolds' Venture LLC
 
 *Producer of thoughtful tools for people who like to think...*
 
