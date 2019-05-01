@@ -7,6 +7,14 @@ header h1 {
   color: #6f76ab;
 }
 
+h2 {
+  color: #6f76ab;
+}
+
+h3 {
+  color: #6f76ab;
+}
+
 a {
   color: #6f76ab;
   font-weight: 600;
@@ -21,8 +29,6 @@ a:hover {
   color: #90a959;
 }
 
-blockquote::before {
-  content: "\201C";
-  color: black;
-  font-size:4em;
+blockquote {
+  border-left: 10px solid #6f76ab;
 }
