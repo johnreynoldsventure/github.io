@@ -11,7 +11,7 @@ and how can you reach it when parties are polarized?
 
 <!--more-->
 
-When building a software product, 
+My career has been focused on building software, and when building software products 
 it's always a good idea to build as little as possible 
 and get it in front of users as soon as possible.
 
