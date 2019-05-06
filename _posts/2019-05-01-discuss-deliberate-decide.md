@@ -3,6 +3,7 @@ layout: post
 author: john
 title: Discussions, deliberations, decisions
 ---
+# Discussons → Deliberations → Decisions
 
 Deliberations are a specific form of discussion that are intended to reach decisions.
 
